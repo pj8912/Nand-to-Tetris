@@ -1,0 +1,26 @@
+Building hack computer
+
+
+Software Hierarchy(Nand to Tetris P2)
+Hardware Platform(Nand to Tetris P1)
+
+
+-----------------
+Nand to Tetris P1
+-----------------
+This is pretty much electrical eng.
+ 
+ -- starting from NAND all the way building a full 
+ blown computer architecture called 'Hack'
+
+     (combinational logic)             (comb.and seq.logic)           (digital design)                     (low level)                              
+ NAND ------------------> Logic Gates --------------------> CPU,RAM  --------------> Computer Architecture ---------> Assembler
+
+
+ How to build a chip?
+ Ans : Hardware Simulator
+
+
+
+
+ 
