@@ -1,0 +1,58 @@
+unit 1.3: Logic Gates:
+
+[Elementary logic gates are the basic building blocks of digital circuits. They include AND, OR, NOT, NAND, NOR, and XOR gates. These gates take one or more binary inputs and produce a single binary output.
+
+Composite logic gates are created by combining multiple elementary logic gates. For example, an AND gate followed by an OR gate creates a NAND-OR gate. These composite gates can perform more complex logic functions than the elementary gates alone.]
+
+
+-----------------------------------------------------------------------------
+----------
+Gate Logic 
+----------
+
+Techique for implementing boolean functions using logic gates.
+
+Logic Gates:
+	- circuit processing digital signals
+	- binary in nature
+	- Gate is a digital circuit with one or more input but with only one output
+	
+
+
+- Elementary (Nand, And, OR, not)
+- Composite : Made from elementary logic gates, More complex(Mux, Adder, ...)
+
+-----------------------------------------------------------------------------
+Elementary Gate: 
+
+- NAND	
+	Gate Diagram:
+	    ____	
+       a----|	)
+	    |	)()---out
+       b----|___)
+	    NAND
+
+	Truth Table:
+	
+	a|b|output
+	0|0|1	
+	0|1|1
+	1|0|1
+	1|1|0
+	
+	
+	functional specification: if(a==1 and b==1) then out=0 else:out=1
+--------------------------------------------------------------------------------
+- AND, OR, NOT
+
+AND : if(a==1 and b==1) then out=1 else:out=0
+OR : if(a==1 or b==1) out=1 else:out=0
+NOT: if(in==0) out=1 else:out=0
+---------------------------------------------------
+
+Composite Gates: 
+[creating gates with  multiple inputs but only one output]
+
+No, the order of the input bits does not affect the chip's output
+
