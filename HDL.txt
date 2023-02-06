@@ -1,0 +1,49 @@
+HDL - Hardware Description Language
+
+- create logic gates using HDL
+- simulate,test and I can build hardware.
+------------------------------------------
+abstraction to implementation.
+- as a gate architect is demand a full and complete description of the desired gate's behavio
+- using chip's interface, you can start writing an HDL file.
+
+eg : 
+
+CHIP Xor{
+	IN a,b;
+	OUT out;
+	
+	PARTS;
+	//Implement
+
+}
+
+-------------------------------------------
+- write documentation
+- name chip, inputs, output
+- will be given to you
+PARTS 
+	- describes that here begins the segment of your program in which you're going to describe how this chip is actually designed
+
+------------------------------------------------------------
+**we can build it from a NAND gate too.
+-----------------------------------------------------------
+- assume that we, we've already built an and gate an or gate and, and not gate.
+- We can inspect the truth table and figure out from the truth table that the Xor functionality
+
+For Xor
+Gen. Idea:
+	out=1 when:
+	 a AND NOT(b)
+	  OR
+	 b AND NOT(a)
+
+- create gate logic diagram
+- from Gate Diagram to HDL
+
+
+Hardware Description Languages:
+	- VHDL
+	- Verilog
+
+------------------------------------------------------------------------------------

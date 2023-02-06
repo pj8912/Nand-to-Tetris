@@ -1,0 +1,11 @@
+-Hardware simulation
+
+Upload HDL file into a 'hardware simulator'(hs) to test whether the code/script works
+
+- Hardware simulator can be interactive
+
+Alternativley you can load 'test script' into hs instead of HDL file.
+
+[completed: 2:21/33:52]
+
+--------------------------------------- 
