@@ -1,0 +1,42 @@
+
+
+
+-- valence electrons?
+
+Valence electrons are the outermost electrons in an atom's electron configuration.
+They are involved in chemical reactions and bonding and are the electrons that are most likely to be gained or lost when an atom reacts with another atom.
+
+
+In semiconductors, the number of valence electrons can affect the electrical properties of the material. For example, when a pentavalent impurity such as phosphorus or arsenic is introduced into a semiconductor, it donates an extra electron, creating an excess of electrons and making the material n-type. On the other hand, when a trivalent impurity such as boron is introduced into a semiconductor, it creates a vacancy, or "hole," in the crystal lattice, making the material p-type.
+
+The properties of valence electrons are important for determining the behavior of materials in electronic and optoelectronic devices, such as diodes, transistors, and solar cells.
+
+-------------------------------------------------------------------------------------
+
+-- semiconductor,  diodes,transistors,logic gates
+
+- pentavalent, trivalent impurities:
+Pentavalent and trivalent impurities are terms used to describe the type of impurities that are introduced into semiconductor materials to create p-type and n-type semiconductors.
+
+Pentavalent impurities, such as phosphorus or arsenic, have five electrons in their outermost energy level. When these impurities are introduced into a semiconductor material, they donate an extra electron to the semiconductor, creating an excess of electrons and making the material n-type.
+
+Trivalent impurities, such as boron, have three electrons in their outermost energy level. When these impurities are introduced into a semiconductor material, they create a vacancy, or "hole," in the crystal lattice. These holes can move freely through the material and act as positive charge carriers, making the material p-type.
+
+The choice of impurity and the amount introduced into the semiconductor material can be carefully controlled to create the desired electrical properties for a specific application.
+    Pentavalent and trivalent impurities are terms used to describe the type of impurities that are introduced into semiconductor materials to create p-type and n-type semiconductors.
+
+Pentavalent impurities, such as phosphorus or arsenic, have five electrons in their outermost energy level. When these impurities are introduced into a semiconductor material, they donate an extra electron to the semiconductor, creating an excess of electrons and making the material n-type.
+
+Trivalent impurities, such as boron, have three electrons in their outermost energy level. When these impurities are introduced into a semiconductor material, they create a vacancy, or "hole," in the crystal lattice. These holes can move freely through the material and act as positive charge carriers, making the material p-type.
+
+The choice of impurity and the amount introduced into the semiconductor material can be carefully controlled to create the desired electrical properties for a specific application.
+
+
+
+    semiconductor, energy bands in solids, intrinsic & extrinsic semiconductors, 
+
+
+
+
+
+    
