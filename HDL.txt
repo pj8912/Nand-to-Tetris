@@ -19,10 +19,13 @@ CHIP Xor{
 }
 
 -------------------------------------------
-- write documentation
+Important points
+
+- write good  documentation
 - name chip, inputs, output
 - will be given to you
-PARTS 
+
+-- PARTS 
 	- describes that here begins the segment of your program in which you're going to describe how this chip is actually designed
 
 ------------------------------------------------------------
@@ -46,4 +49,4 @@ Hardware Description Languages:
 	- VHDL
 	- Verilog
 
-------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------

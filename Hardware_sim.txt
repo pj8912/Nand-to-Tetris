@@ -1,11 +1,40 @@
--Hardware simulation
+Hardware simulation
 
-Upload HDL file into a 'hardware simulator'(hs) to test whether the code/script works
+-- Upload HDL file into a 'hardware simulator'(HS) to test whether the code/script works
 
-- Hardware simulator can be interactive
+-- Hardware simulator can be interactive
 
-Alternativley you can load 'test script' into hs instead of HDL file.
+-- Alternativley you can load 'test script' into HS instead of HDL file.
 
 [completed: 2:21/33:52]
 
---------------------------------------- 
+
+Simulation Options:
+	-- Interactive
+	-- Script-nased
+	-- With/without output compare files
+-------
+Xor.hdl
+
+CHIP Xor{
+
+ 	IN a,b;
+	OUT out;
+
+	PARTS:
+	Not(in=a, out=nota)
+	Not(in=b, out=notb)
+	And(a=a, b=notb, out=aAndNotb);
+	And(a=)
+}
+
+
+
+-- Simulation Process:
+	- Load the HDL File into the hardware simulator
+	- Enter values(0's and 1's) into the input chips(a and b)
+	- Evaluate the chip's logic
+	- Inspect the resulting valuses of 
+		-- The output pins
+		-- The internal pins
+ 
